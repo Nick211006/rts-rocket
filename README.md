@@ -9,6 +9,14 @@
 - PyGame
 - Flask, REST API
 - SQLite
+
+## My Soft Skills:
+
+- friendly & empathic
+- loyal & respectable
+- optimistic
+- helpful
+
 ## 📌 My Projects:
 
 - [Flask API for weather](https://github.com/user/weather-api)
