@@ -10,7 +10,7 @@
 - Flask, REST API
 - SQLite
 
-## My Soft Skills:
+## 🪶My Soft Skills:
 
 - friendly & empathic
 - loyal & respectable
